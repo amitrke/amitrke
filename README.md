@@ -3,7 +3,7 @@
 In my free time
 
 - 🔭 I’m currently working on Simple Mobile and Web Applications.
-- 🌱 I’m currently learning React Native
+- 🌱 Learning React Native
 - 👯 I’m looking to collaborate on developing free and open source Mobile Apps.
 - 📫 How to reach me: kumar at amit dot app
 <!--
