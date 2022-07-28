@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 In my free time
-- 🔭 I’m currently working on Simple Mobile and Web Applications.
-- 🌱 Learning Kubernetes
+- 🔭 I learn how to create Simple Mobile and Web Applications.
+- 🌱 Learn Cloud related technologies.
 - 👯 I’m looking to collaborate on developing free and open-source Mobile Apps.
 <!--
 **amitrke/amitrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
